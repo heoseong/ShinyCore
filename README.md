@@ -10,17 +10,17 @@ Table 1. Samples (accessions) by column
 
 | |Sample 1|Sample 2|...|Sample *n*|
 |---|---|---|---|---|
-|marker 1| | | | |
-|marker 2| | | | |
+|marker 1|1|2| | |
+|marker 2|0|1| | |
 |...| | | | |
-|marker *m*| | | | |
+|marker *m*|NA|0| | |
 
 Table 2. Samples (accessions) by row
 
 
 | |Marker 1|Marker 2|...|Marker *m*|
 |---|---|---|---|---|
-|Sample 1| | | | |
-|Sample 2| | | | |
+|Sample 1|G|T| | |
+|Sample 2|A|C| | |
 |...| | | | |
-|Sample *n*| | | | |
+|Sample *n*|N|C| | |
