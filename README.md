@@ -24,3 +24,10 @@ Table 2. Samples (accessions) by row
 |Sample 2|A|C| | |
 |...| | | | |
 |Sample *n*|N|C| | |
+
+
+R can read various types of file (such as xlsx, hapmap, vcf) and export to a csv file. Below are useful links:
+•	How to read an Excel file in R
+•	How to read a hapmap file in R
+•	How to read a vcf file in R
+•	How to export csv file in R
