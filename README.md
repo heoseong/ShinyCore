@@ -28,7 +28,7 @@ Table 2. Samples (accessions) by row
 
 R can read various types of file (such as xlsx, hapmap, vcf) and export to a csv file. Below are useful links:
 <ul>
-<li>How to read an Excel file in R</li>
+<li><a href="https://www.rdocumentation.org/packages/openxlsx/versions/4.2.5.2/topics/read.xlsx">How to read an Excel file in R</a></li>
 <li>How to read a hapmap file in R</li>
 <li>How to read a vcf file in R</li>
 <li>How to export csv file in R</li>
