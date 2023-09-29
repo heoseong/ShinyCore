@@ -1,0 +1,11 @@
+name: ShinyCore
+title: ShinyCore
+username:
+account: stevenkimcsumb
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 6565060
+bundleId: 7586544
+url: https://stevenkimcsumb.shinyapps.io/ShinyCore/
+asMultiple: FALSE
+asStatic: FALSE

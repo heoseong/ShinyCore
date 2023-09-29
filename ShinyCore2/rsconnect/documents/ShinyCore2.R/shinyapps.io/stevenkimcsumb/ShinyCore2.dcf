@@ -1,0 +1,13 @@
+name: ShinyCore2
+title: ShinyCore2
+username: stevenkimcsumb
+account: stevenkimcsumb
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 10012146
+bundleId: 7735262
+url: https://stevenkimcsumb.shinyapps.io/ShinyCore2/
+version: 1
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: Data/Wheat1.csv|Data/Wheat1_Toy.csv|Data/Wheat2.csv
